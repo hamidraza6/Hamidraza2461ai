@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20T%20I'm%20Hamid%20Raza&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20YOUR%20NAME&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Raw+Data+into+Real+Insights+%E2%9C%A8" alt="Typing SVG" />
 
@@ -56,7 +55,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hamid Raza&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00CFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00CFFF"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A970FF"/>
 
 <br/>
