@@ -24,7 +24,7 @@
 🔭 Working on:  End-to-end ML pipelines & Deep Learning models
 🌱 Learning:    NLP, Computer Vision, MLOps
 💬 Ask about:   Python, Pandas, Scikit-learn, TensorFlow, PyTorch
-📫 Reach me:    your-email@example.com
+📫 Reach me:    hamidraza71450@gmail.com
 ⚡ Fun fact:    I turn messy data into clean stories
 ```
 
