@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./assets/banner.gif" width="100%">
+</p>
+
+
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=%20Hamid%20Raza&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
